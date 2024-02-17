@@ -1,0 +1,7 @@
+*.pyc 
+*/__pycache__/*
+data/
+save_near_index/
+save_processed_data/
+wandb/
+result/

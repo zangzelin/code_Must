@@ -65,7 +65,7 @@ We provide Downstream Task Demos in `downstream_task_demo`.
 
 ## Cite us
 
-```
+```bib
 @misc{zang2024must,
       title={Must: Maximizing Latent Capacity of Spatial Transcriptomics Data}, 
       author={Zelin Zang and Liangyu Li and Yongjie Xu and Chenrui Duan and Kai Wang and Yang You and Yi Sun and Stan Z. Li},

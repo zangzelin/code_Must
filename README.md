@@ -51,7 +51,7 @@ We recommand to use `wandb` to log and view results. Wandb result url can be fou
 
 ```bash
 result
-`-- V1_Adult_Mouse_Brain
+-- V1_Adult_Mouse_Brain
     |-- emb.npy             # embedding
     |-- emb_2d.npy          # 2D embedding suggested by umap
     |-- hvg.npy             # highly variable genes selection mask
